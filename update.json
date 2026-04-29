@@ -1,5 +1,5 @@
 {
-  "version": "8.14",
-  "updateLog": "锐影双子星 PRO V8.14 更新公告：\n1. 新增【材质表现效果】50款神级预设滤镜；\n2. 全新UI交互体验升级。",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/zhangbin20622/ruiying-update@main/update_v8.14_final.exe"
+  "version": "8.15",
+  "updateLog": "1. 优化显卡渲染策略，至尊超清画幅突破至 6K 级别！\n2. 增加 AI 想像力智能联动滑杆。\n3. 彻底重构底层引擎通讯，实现纯静默无打扰渲染。",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/zhangbin20622/ruiying-update@main/update_v8.15.exe"
 }

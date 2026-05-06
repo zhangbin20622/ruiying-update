@@ -1,0 +1,5 @@
+{
+  "version": 8.15,
+  "updateLog": "1. 优化显卡渲染策略，支持动态显存常驻。\n2. 增加极简渲染耗时水印。\n3. 彻底重构底层引擎通讯，实现纯静默无打扰渲染。",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/zhangbin20622/ruiying-update@main/update_desktop_v8.15.exe"
+}
